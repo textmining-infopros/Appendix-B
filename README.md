@@ -1,8 +1,14 @@
-# Appendix B: Language Corpora Available for Text Mining
+# Appendix B: Language Corpora Available for Text Mining [![DOI](https://zenodo.org/badge/386049294.svg)](https://zenodo.org/badge/latestdoi/386049294)
 
-Appendix B is associated with **_Chapter 3: Text Pre-Processing_** of the book
+Appendix B is associated with **_Chapter 3: Text Pre-Processing_** of the book -- Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature.
 
-### B.1: Selected Language Corpora Available for Text Mining
+# How to Cite 
+
+Lamba, Manika, & Madhusudhan, Margam. (2021). Appendix B: Language Corpora Available for Text Mining (Version v1.0). http://doi.org/10.5281/zenodo.5104678  
+
+
+
+# B.1: Selected Language Corpora Available for Text Mining
 |Resource|Description|Fee|Result Format|
 |:--|:--|:--|:--|
 |[Acquis Communautaire (AC)](https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis#Download%20the%20JRC-Acquis%20corpus)|It provides access to legislative text between 1950s to present in 22 languages (Bulgarian, Czech, Danish, German, Greek, English, Spanish, Estonian, Finnish, French, Hungarian, Italian, Lithuanian, Latvian, Maltese, Dutch, Polish, Portuguese, Romanian, Slovak, Slovenian and Swedish)|Free|Text/XML|
